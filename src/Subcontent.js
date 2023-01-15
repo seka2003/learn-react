@@ -2,7 +2,7 @@ import React from 'react';
 
 function SubContent() {
     function openLink() {
-      window.open("https://www.facebook.com/profile.php?id=100018326568031");
+      window.open("https://www.facebook.com/profile.php?id=");
     }
     return (
       <main>
