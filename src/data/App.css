@@ -1,0 +1,7 @@
+.content-bg-border {
+    background-color: rgb(230, 222, 222);
+    border: 5px solid black;
+    padding: 5px;
+    text-align: center;
+    margin: 5px 100px 15px 100px; /* top, right, bottom, left */
+    }

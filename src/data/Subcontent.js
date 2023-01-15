@@ -1,4 +1,5 @@
 import React from 'react';
+import './App.css';
 
 function SubContent() {
     function openLink() {
@@ -6,10 +7,10 @@ function SubContent() {
     }
     return (
       <main>
-        <div className="p-2 mb-4 bg-grey rounded-3">
+        <div className="p-2 mb-4 bg-grey rounded-3 content-bg-border">
           <div className="container-fluid py-5">
-            <h1 className="display-9 fw-bold">Prayut Chan-o-cha</h1>
-            <p className="col-md-11 fs-5">
+            <h1 className="display-9 fw-bold">Kittichok Narongrat</h1>
+            <p className="col-md-14 fs-6">
               Prayut Chan-o-cha is a retired Royal Thai Army general who is the current 
               Prime Minister of Thailand. He first came to power in 2014 as the leader of 
               the military junta that seized control of the government in a coup d'etat. 

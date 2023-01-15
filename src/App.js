@@ -1,7 +1,7 @@
 import './App.css';
-import Navbar from './Navbar';
-import MainContent from './Maincontent';
-import SubContent from './Subcontent';
+import Navbar from './data/Navbar';
+import MainContent from './data/Maincontent';
+import SubContent from './data/Subcontent';
 
 function App() {
   return (
